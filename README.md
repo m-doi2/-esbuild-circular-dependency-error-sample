@@ -1,4 +1,4 @@
-# esbuild-circular-dependency-sample
+# esbuild-circular-dependency-error-sample
 
 The build result of the decorator given to the constructor parameters is different between tsc and esbuild(v0.8.42).
 This repository presents an example of using the Inversify.js decorator.
